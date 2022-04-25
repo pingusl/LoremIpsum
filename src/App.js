@@ -17,7 +17,7 @@ function App() {
         </div>
       </div>
       <div className="feuille">
-        <h2>Etape 1</h2>
+        <h2>Etape 2</h2>
         <div className="page">
           <Content text={text1} name={title1} />
           <Content text={text2} name={title2} />
