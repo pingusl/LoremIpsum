@@ -1,0 +1,9 @@
+.lorem {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: hidden;
+  max-width: 50%;
+  max-height: 50%;
+  margin: 10px 10px;
+  background-color: rgb(187, 185, 185);
+}
